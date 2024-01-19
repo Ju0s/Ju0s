@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Ju0's%20github%20&&animation=fadeIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Ju0s)](https://github.com/Ju0s)
 
@@ -11,11 +11,8 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
 ### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+
 ---
 **두껍게** <br>
 *기울기* <br>
