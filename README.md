@@ -10,3 +10,4 @@
 
 ### SQL 공부 기록
 #### [Programmers](https://github.com/Ju0s/Programmers_SQL/blob/main/README.md)
+#### [HackerRank](https://github.com/Ju0s/HackerRank_SQL/blob/main/README.md)
