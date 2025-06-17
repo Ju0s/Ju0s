@@ -11,3 +11,4 @@
 ### SQL 공부 기록
 #### [HackerRank](https://github.com/Ju0s/HackerRank_SQL/blob/main/README.md)
 #### [Programmers](https://github.com/Ju0s/Programmers_SQL/blob/main/README.md)
+#### [solvesql-Advent Of SQL 2024](https://github.com/Ju0s/solvesql-AdventOfSQL2024)
